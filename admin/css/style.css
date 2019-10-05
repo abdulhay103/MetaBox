@@ -1,0 +1,35 @@
+body{
+	color: #000;
+}
+
+.fields{
+
+}
+.field_c{
+	padding: 20px 0;
+}
+.label_c{
+	width: 15%;
+	float: left;
+}
+.input_c{
+	width: 85%;
+	float: left;
+}
+.clear_fixed{
+	clear: both;
+}
+
+/*লোকেশন ইনফরমেশন এর সিএসএস */
+
+.info_label_c{
+	width: 15%;
+	float: left;
+}
+
+/* Image Button */
+.image_btn{
+	border:none;
+	padding: 7px;
+	cursor: pointer;
+}
